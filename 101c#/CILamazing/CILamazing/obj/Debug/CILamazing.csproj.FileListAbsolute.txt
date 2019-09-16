@@ -1,0 +1,7 @@
+C:\Development\101c#\CILamazing\CILamazing\bin\Debug\CILamazing.exe.config
+C:\Development\101c#\CILamazing\CILamazing\bin\Debug\CILamazing.exe
+C:\Development\101c#\CILamazing\CILamazing\bin\Debug\CILamazing.pdb
+C:\Development\101c#\CILamazing\CILamazing\obj\Debug\CILamazing.csprojAssemblyReference.cache
+C:\Development\101c#\CILamazing\CILamazing\obj\Debug\CILamazing.csproj.CoreCompileInputs.cache
+C:\Development\101c#\CILamazing\CILamazing\obj\Debug\CILamazing.exe
+C:\Development\101c#\CILamazing\CILamazing\obj\Debug\CILamazing.pdb

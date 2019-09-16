@@ -1,0 +1,7 @@
+C:\Development\101c#\CILamazing\AreasOfThings\bin\Debug\AreasOfThings.exe.config
+C:\Development\101c#\CILamazing\AreasOfThings\bin\Debug\AreasOfThings.exe
+C:\Development\101c#\CILamazing\AreasOfThings\bin\Debug\AreasOfThings.pdb
+C:\Development\101c#\CILamazing\AreasOfThings\obj\Debug\AreasOfThings.csproj.CoreCompileInputs.cache
+C:\Development\101c#\CILamazing\AreasOfThings\obj\Debug\AreasOfThings.exe
+C:\Development\101c#\CILamazing\AreasOfThings\obj\Debug\AreasOfThings.pdb
+C:\Development\101c#\CILamazing\AreasOfThings\obj\Debug\AreasOfThings.csprojAssemblyReference.cache
