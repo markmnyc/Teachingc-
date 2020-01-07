@@ -1,0 +1,12 @@
+C:\Development\101c#\CILamazing\ObjectOrientatedLanguage\bin\Debug\ObjectOrientatedLanguage.exe.config
+C:\Development\101c#\CILamazing\ObjectOrientatedLanguage\bin\Debug\ObjectOrientatedLanguage.exe
+C:\Development\101c#\CILamazing\ObjectOrientatedLanguage\bin\Debug\ObjectOrientatedLanguage.pdb
+C:\Development\101c#\CILamazing\ObjectOrientatedLanguage\obj\Debug\ObjectOrientatedLanguage.csproj.CoreCompileInputs.cache
+C:\Development\101c#\CILamazing\ObjectOrientatedLanguage\obj\Debug\ObjectOrientatedLanguage.exe
+C:\Development\101c#\CILamazing\ObjectOrientatedLanguage\obj\Debug\ObjectOrientatedLanguage.pdb
+C:\Development\101c#\CILamazing\ObjectOrientatedLanguage\obj\Debug\ObjectOrientatedLanguage.csprojAssemblyReference.cache
+C:\Users\espad\Source\Repos\Teachingc-\101c#\JuniorLevel\ObjectOrientatedLanguage\bin\Debug\ObjectOrientatedLanguage.exe.config
+C:\Users\espad\Source\Repos\Teachingc-\101c#\JuniorLevel\ObjectOrientatedLanguage\bin\Debug\ObjectOrientatedLanguage.exe
+C:\Users\espad\Source\Repos\Teachingc-\101c#\JuniorLevel\ObjectOrientatedLanguage\bin\Debug\ObjectOrientatedLanguage.pdb
+C:\Users\espad\Source\Repos\Teachingc-\101c#\JuniorLevel\ObjectOrientatedLanguage\obj\Debug\ObjectOrientatedLanguage.exe
+C:\Users\espad\Source\Repos\Teachingc-\101c#\JuniorLevel\ObjectOrientatedLanguage\obj\Debug\ObjectOrientatedLanguage.pdb

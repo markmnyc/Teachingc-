@@ -1,0 +1,11 @@
+C:\Users\espad\Source\Repos\Teachingc-\101c#\JuniorLevel\BestPractices\bin\Debug\netcoreapp3.1\BestPractices.exe
+C:\Users\espad\Source\Repos\Teachingc-\101c#\JuniorLevel\BestPractices\bin\Debug\netcoreapp3.1\BestPractices.deps.json
+C:\Users\espad\Source\Repos\Teachingc-\101c#\JuniorLevel\BestPractices\bin\Debug\netcoreapp3.1\BestPractices.runtimeconfig.json
+C:\Users\espad\Source\Repos\Teachingc-\101c#\JuniorLevel\BestPractices\bin\Debug\netcoreapp3.1\BestPractices.runtimeconfig.dev.json
+C:\Users\espad\Source\Repos\Teachingc-\101c#\JuniorLevel\BestPractices\bin\Debug\netcoreapp3.1\BestPractices.dll
+C:\Users\espad\Source\Repos\Teachingc-\101c#\JuniorLevel\BestPractices\bin\Debug\netcoreapp3.1\BestPractices.pdb
+C:\Users\espad\Source\Repos\Teachingc-\101c#\JuniorLevel\BestPractices\obj\Debug\netcoreapp3.1\BestPractices.csprojAssemblyReference.cache
+C:\Users\espad\Source\Repos\Teachingc-\101c#\JuniorLevel\BestPractices\obj\Debug\netcoreapp3.1\BestPractices.AssemblyInfoInputs.cache
+C:\Users\espad\Source\Repos\Teachingc-\101c#\JuniorLevel\BestPractices\obj\Debug\netcoreapp3.1\BestPractices.AssemblyInfo.cs
+C:\Users\espad\Source\Repos\Teachingc-\101c#\JuniorLevel\BestPractices\obj\Debug\netcoreapp3.1\BestPractices.dll
+C:\Users\espad\Source\Repos\Teachingc-\101c#\JuniorLevel\BestPractices\obj\Debug\netcoreapp3.1\BestPractices.pdb
