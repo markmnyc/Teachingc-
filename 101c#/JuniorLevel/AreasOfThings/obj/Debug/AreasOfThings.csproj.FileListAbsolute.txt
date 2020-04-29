@@ -11,3 +11,10 @@ C:\Users\espad\Source\Repos\Teachingc-\101c#\JuniorLevel\AreasOfThings\bin\Debug
 C:\Users\espad\Source\Repos\Teachingc-\101c#\JuniorLevel\AreasOfThings\obj\Debug\AreasOfThings.csprojAssemblyReference.cache
 C:\Users\espad\Source\Repos\Teachingc-\101c#\JuniorLevel\AreasOfThings\obj\Debug\AreasOfThings.exe
 C:\Users\espad\Source\Repos\Teachingc-\101c#\JuniorLevel\AreasOfThings\obj\Debug\AreasOfThings.pdb
+C:\Users\espad\Documents\Developer Work\learning\Teachingc-\101c#\JuniorLevel\AreasOfThings\bin\Debug\AreasOfThings.exe.config
+C:\Users\espad\Documents\Developer Work\learning\Teachingc-\101c#\JuniorLevel\AreasOfThings\bin\Debug\AreasOfThings.exe
+C:\Users\espad\Documents\Developer Work\learning\Teachingc-\101c#\JuniorLevel\AreasOfThings\bin\Debug\AreasOfThings.pdb
+C:\Users\espad\Documents\Developer Work\learning\Teachingc-\101c#\JuniorLevel\AreasOfThings\obj\Debug\AreasOfThings.csprojAssemblyReference.cache
+C:\Users\espad\Documents\Developer Work\learning\Teachingc-\101c#\JuniorLevel\AreasOfThings\obj\Debug\AreasOfThings.csproj.CoreCompileInputs.cache
+C:\Users\espad\Documents\Developer Work\learning\Teachingc-\101c#\JuniorLevel\AreasOfThings\obj\Debug\AreasOfThings.exe
+C:\Users\espad\Documents\Developer Work\learning\Teachingc-\101c#\JuniorLevel\AreasOfThings\obj\Debug\AreasOfThings.pdb

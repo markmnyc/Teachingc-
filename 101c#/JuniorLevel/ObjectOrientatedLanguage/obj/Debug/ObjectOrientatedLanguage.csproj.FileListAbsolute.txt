@@ -10,3 +10,10 @@ C:\Users\espad\Source\Repos\Teachingc-\101c#\JuniorLevel\ObjectOrientatedLanguag
 C:\Users\espad\Source\Repos\Teachingc-\101c#\JuniorLevel\ObjectOrientatedLanguage\bin\Debug\ObjectOrientatedLanguage.pdb
 C:\Users\espad\Source\Repos\Teachingc-\101c#\JuniorLevel\ObjectOrientatedLanguage\obj\Debug\ObjectOrientatedLanguage.exe
 C:\Users\espad\Source\Repos\Teachingc-\101c#\JuniorLevel\ObjectOrientatedLanguage\obj\Debug\ObjectOrientatedLanguage.pdb
+C:\Users\espad\Documents\Developer Work\learning\Teachingc-\101c#\JuniorLevel\ObjectOrientatedLanguage\bin\Debug\ObjectOrientatedLanguage.exe.config
+C:\Users\espad\Documents\Developer Work\learning\Teachingc-\101c#\JuniorLevel\ObjectOrientatedLanguage\bin\Debug\ObjectOrientatedLanguage.exe
+C:\Users\espad\Documents\Developer Work\learning\Teachingc-\101c#\JuniorLevel\ObjectOrientatedLanguage\bin\Debug\ObjectOrientatedLanguage.pdb
+C:\Users\espad\Documents\Developer Work\learning\Teachingc-\101c#\JuniorLevel\ObjectOrientatedLanguage\obj\Debug\ObjectOrientatedLanguage.csprojAssemblyReference.cache
+C:\Users\espad\Documents\Developer Work\learning\Teachingc-\101c#\JuniorLevel\ObjectOrientatedLanguage\obj\Debug\ObjectOrientatedLanguage.csproj.CoreCompileInputs.cache
+C:\Users\espad\Documents\Developer Work\learning\Teachingc-\101c#\JuniorLevel\ObjectOrientatedLanguage\obj\Debug\ObjectOrientatedLanguage.exe
+C:\Users\espad\Documents\Developer Work\learning\Teachingc-\101c#\JuniorLevel\ObjectOrientatedLanguage\obj\Debug\ObjectOrientatedLanguage.pdb

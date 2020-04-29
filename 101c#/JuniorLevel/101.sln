@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectOrientatedLanguage", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreasOfThings", "AreasOfThings\AreasOfThings.csproj", "{6B48F550-6B6C-4F3D-BAD8-5C70864F6E5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestPractices", "BestPractices\BestPractices.csproj", "{3F5E22A1-F833-45C1-8079-E7A883BD4BA9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestPract", "BestPract\BestPract.csproj", "{8B2605A1-2482-40ED-A7BC-E4DC482862DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{6B48F550-6B6C-4F3D-BAD8-5C70864F6E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B48F550-6B6C-4F3D-BAD8-5C70864F6E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B48F550-6B6C-4F3D-BAD8-5C70864F6E5C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3F5E22A1-F833-45C1-8079-E7A883BD4BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3F5E22A1-F833-45C1-8079-E7A883BD4BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3F5E22A1-F833-45C1-8079-E7A883BD4BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3F5E22A1-F833-45C1-8079-E7A883BD4BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B2605A1-2482-40ED-A7BC-E4DC482862DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B2605A1-2482-40ED-A7BC-E4DC482862DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B2605A1-2482-40ED-A7BC-E4DC482862DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B2605A1-2482-40ED-A7BC-E4DC482862DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

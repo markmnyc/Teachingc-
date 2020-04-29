@@ -1,0 +1,7 @@
+C:\Users\espad\Documents\Developer Work\learning\Teachingc-\101c#\JuniorLevel\BestPract\bin\Debug\BestPract.exe.config
+C:\Users\espad\Documents\Developer Work\learning\Teachingc-\101c#\JuniorLevel\BestPract\bin\Debug\BestPract.exe
+C:\Users\espad\Documents\Developer Work\learning\Teachingc-\101c#\JuniorLevel\BestPract\bin\Debug\BestPract.pdb
+C:\Users\espad\Documents\Developer Work\learning\Teachingc-\101c#\JuniorLevel\BestPract\obj\Debug\BestPract.csprojAssemblyReference.cache
+C:\Users\espad\Documents\Developer Work\learning\Teachingc-\101c#\JuniorLevel\BestPract\obj\Debug\BestPract.csproj.CoreCompileInputs.cache
+C:\Users\espad\Documents\Developer Work\learning\Teachingc-\101c#\JuniorLevel\BestPract\obj\Debug\BestPract.exe
+C:\Users\espad\Documents\Developer Work\learning\Teachingc-\101c#\JuniorLevel\BestPract\obj\Debug\BestPract.pdb
