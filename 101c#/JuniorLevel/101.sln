@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreasOfThings", "AreasOfThi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestPract", "BestPract\BestPract.csproj", "{8B2605A1-2482-40ED-A7BC-E4DC482862DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solid Principles", "Solid Principles\Solid Principles.csproj", "{3BA2F81E-77D3-4026-AC42-4127D6C9B3C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8B2605A1-2482-40ED-A7BC-E4DC482862DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B2605A1-2482-40ED-A7BC-E4DC482862DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B2605A1-2482-40ED-A7BC-E4DC482862DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BA2F81E-77D3-4026-AC42-4127D6C9B3C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA2F81E-77D3-4026-AC42-4127D6C9B3C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA2F81E-77D3-4026-AC42-4127D6C9B3C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA2F81E-77D3-4026-AC42-4127D6C9B3C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
